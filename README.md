@@ -6,7 +6,7 @@ Zines can be a great tool for teaching and for sharing research. Researchers acr
 
 ## In this repository
 - Workshop slides from 2026
-- Minizine worksheet to accompany workshop
+- Mini zine to accompany workshop in [PDF](https://github.com/cynthiaheider/zineify-your-research/blob/main/2026-Zine-Printable-Zineify_Your_Research.pdf) and [PNG](https://github.com/cynthiaheider/zineify-your-research/blob/main/2026-Zine-Printable-Zineify_Your_Research.png) formats. Note that the PDF is not remediated for accessibility. (Hint: print on one piece of paper, then [fold like this](https://www.42ndstreet.org.uk/media/etdlxppk/zine-guide-colour.jpg))
 
 ## Rights & reuse
 Feel free to reuse contents of this repository under the terms of [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
